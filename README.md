@@ -1,3 +1,2 @@
 # Identifier-Disboard-Discord
 
-It's vastly used when creating  personalized discord servers ,it can classify and create moderators ,bots , assign roles , manage channels,-automatically with just a single command....
